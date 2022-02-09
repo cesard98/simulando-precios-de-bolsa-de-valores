@@ -1,0 +1,2 @@
+# simulando-precios-de-bolsa-de-valores
+En este proyecto se usará el movimiento Browniano para simular precios de distintos índices de la Bolsa de Valores, tales como el Índice de precios al consumidor (IPC) y el Standard Poor’s 500 (S&amp;P 500), que son dos de los indicadores más representativos y confiables del estado del mercado accionario mexicano y mundial. A esto se le aplicará el método de Montecarlo para conseguir un resultado más aproximado de la simulación.
